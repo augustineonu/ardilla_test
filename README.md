@@ -1,15 +1,20 @@
 # ardilla_test
 
-A new Flutter project.
 
-## Getting Started
+### Project Development Process
+#### Feature Driven Development (FDD)
 
-This project is a starting point for a Flutter application.
+### Project Architecture/Structure
+#### BLOC (Business Logic Component) using BLOC Library from Very Good Ventures (Felix Angelov)
+- Data Layer (Model, Data Provider, Repository)
+- BLOC ( Bloc)
+- Presentation (Pages)
 
-A few resources to get you started if this is your first Flutter project:
+#### State Management Tool:
+### BLOC Library
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## User can simply get on the app by filling the sign up and Log in form. 
+It doesn't or won't validate any API, but it validates for empty fields, etc
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
